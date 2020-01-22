@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac34f438-cd43-4a35-8028-743aa7634708" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wge8XMnHl6garbCcguCFxWgy3m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="com.chess.engine.board.BoardUtils" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ChessGame" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac34f438-cd43-4a35-8028-743aa7634708" name="Default Changelist" comment="" />
+      <created>1579575505915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579575505915</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1176" y="229" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1579578611605">
+      <screen x="0" y="23" width="1920" height="1001" />
+    </state>
+    <state x="1176" y="229" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.23.1920.1001/-1440.203.1440.877@0.23.1920.1001" timestamp="1579578611605" />
+    <state x="1176" y="228" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.23.1920.997/-1440.203.1440.877@0.23.1920.997" timestamp="1579578404701" />
+    <state x="1057" y="227" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1579660048251">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state x="1057" y="227" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.23.1920.1002/-1440.203.1440.877@0.23.1920.1002" timestamp="1579660048251" />
+    <state x="1093" y="233" key="DetectedRootsChooserDialog" timestamp="1579578326110">
+      <screen x="0" y="23" width="1920" height="997" />
+    </state>
+    <state x="1093" y="233" key="DetectedRootsChooserDialog/0.23.1920.997/-1440.203.1440.877@0.23.1920.997" timestamp="1579578326110" />
+    <state x="826" y="92" key="SettingsEditor" timestamp="1579578823841">
+      <screen x="0" y="23" width="1920" height="997" />
+    </state>
+    <state x="826" y="92" key="SettingsEditor/0.23.1920.1001/-1440.203.1440.877@0.23.1920.1001" timestamp="1579578519876" />
+    <state x="826" y="92" key="SettingsEditor/0.23.1920.997/-1440.203.1440.877@0.23.1920.997" timestamp="1579578823841" />
+    <state x="1045" y="124" key="refactoring.ChangeSignatureDialog" timestamp="1579661873719">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state x="1045" y="124" key="refactoring.ChangeSignatureDialog/0.23.1920.1002/-1440.203.1440.877@0.23.1920.1002" timestamp="1579661873719" />
+  </component>
+</project>
