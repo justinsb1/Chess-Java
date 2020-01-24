@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac34f438-cd43-4a35-8028-743aa7634708" name="Default Changelist" comment="" />
+    <list default="true" id="ac34f438-cd43-4a35-8028-743aa7634708" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chess/engine/pieces/Bishop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chess/engine/board/BoardUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chess/engine/board/BoardUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chess/engine/board/Move.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chess/engine/board/Move.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chess/engine/board/Tile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chess/engine/board/Tile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chess/engine/pieces/Knight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chess/engine/pieces/Knight.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,13 +24,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Wge8XMnHl6garbCcguCFxWgy3m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -42,6 +56,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -69,6 +88,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1459" y="264" key="#com.intellij.ide.util.MemberChooser" timestamp="1579832901657">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state x="1459" y="264" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1004/-1440.203.1440.877@0.23.1920.1004" timestamp="1579832901657" />
     <state x="1176" y="229" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1579578611605">
       <screen x="0" y="23" width="1920" height="1001" />
     </state>
@@ -82,14 +105,31 @@
       <screen x="0" y="23" width="1920" height="997" />
     </state>
     <state x="1093" y="233" key="DetectedRootsChooserDialog/0.23.1920.997/-1440.203.1440.877@0.23.1920.997" timestamp="1579578326110" />
+    <state width="1358" height="261" key="GridCell.Tab.0.bottom" timestamp="1579752002523">
+      <screen x="0" y="23" width="1920" height="1003" />
+    </state>
+    <state width="1358" height="261" key="GridCell.Tab.0.bottom/0.23.1920.1003/-1440.203.1440.877@0.23.1920.1003" timestamp="1579752002523" />
+    <state width="1358" height="261" key="GridCell.Tab.0.center" timestamp="1579752002519">
+      <screen x="0" y="23" width="1920" height="1003" />
+    </state>
+    <state width="1358" height="261" key="GridCell.Tab.0.center/0.23.1920.1003/-1440.203.1440.877@0.23.1920.1003" timestamp="1579752002519" />
+    <state width="1358" height="261" key="GridCell.Tab.0.left" timestamp="1579752002517">
+      <screen x="0" y="23" width="1920" height="1003" />
+    </state>
+    <state width="1358" height="261" key="GridCell.Tab.0.left/0.23.1920.1003/-1440.203.1440.877@0.23.1920.1003" timestamp="1579752002517" />
+    <state width="1358" height="261" key="GridCell.Tab.0.right" timestamp="1579752002522">
+      <screen x="0" y="23" width="1920" height="1003" />
+    </state>
+    <state width="1358" height="261" key="GridCell.Tab.0.right/0.23.1920.1003/-1440.203.1440.877@0.23.1920.1003" timestamp="1579752002522" />
     <state x="826" y="92" key="SettingsEditor" timestamp="1579578823841">
       <screen x="0" y="23" width="1920" height="997" />
     </state>
     <state x="826" y="92" key="SettingsEditor/0.23.1920.1001/-1440.203.1440.877@0.23.1920.1001" timestamp="1579578519876" />
     <state x="826" y="92" key="SettingsEditor/0.23.1920.997/-1440.203.1440.877@0.23.1920.997" timestamp="1579578823841" />
-    <state x="1045" y="124" key="refactoring.ChangeSignatureDialog" timestamp="1579661873719">
-      <screen x="0" y="23" width="1920" height="1002" />
+    <state x="1045" y="124" key="refactoring.ChangeSignatureDialog" timestamp="1579834727089">
+      <screen x="0" y="23" width="1920" height="1004" />
     </state>
     <state x="1045" y="124" key="refactoring.ChangeSignatureDialog/0.23.1920.1002/-1440.203.1440.877@0.23.1920.1002" timestamp="1579661873719" />
+    <state x="1045" y="124" key="refactoring.ChangeSignatureDialog/0.23.1920.1004/-1440.203.1440.877@0.23.1920.1004" timestamp="1579834727089" />
   </component>
 </project>

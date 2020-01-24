@@ -21,7 +21,7 @@ public abstract class Tile {
 
         final Map<Integer, EmptyTile> emptyTileMap = new HashMap<>();
 
-        for(int i = 0; i < 64; i++) {
+        for(int i = 0; i < BoardUtils.NUM_TILES; i++) {
             emptyTileMap.put(i, new EmptyTile(i));
         }
         // ImmutableMap is apart of Guava library (3rd Party Library)
@@ -34,7 +34,7 @@ public abstract class Tile {
     }
 
     //Constructor for Tile class
-    private Tile(int tileCoordinate) {
+    private Tile(final int tileCoordinate) {
         this.tileCoordinate = tileCoordinate;
     }
 
@@ -66,7 +66,7 @@ public abstract class Tile {
 
         private final Piece pieceOnTile; // Can be mutated so made Private - no way to reference this variable outside without calling getPiece()
 
-        OccupiedTile(int tileCoordinate, Piece pieceOnTile) {
+        OccupiedTile(int tileCoordinate, final Piece pieceOnTile) {
             // establishes the tile coordinate
             super(tileCoordinate);
             this.pieceOnTile = pieceOnTile;
