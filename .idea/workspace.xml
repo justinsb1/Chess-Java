@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac34f438-cd43-4a35-8028-743aa7634708" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chess/engine/pieces/Bishop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chess/engine/pieces/King.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chess/engine/pieces/Pawn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chess/engine/pieces/Queen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chess/engine/pieces/Rook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chess/engine/Alliance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chess/engine/Alliance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/chess/engine/board/BoardUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chess/engine/board/BoardUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chess/engine/board/Move.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chess/engine/board/Move.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chess/engine/board/Tile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chess/engine/board/Tile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chess/engine/pieces/Knight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chess/engine/pieces/Knight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chess/engine/pieces/Bishop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chess/engine/pieces/Bishop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chess/engine/pieces/Piece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chess/engine/pieces/Piece.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,10 +89,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1459" y="264" key="#com.intellij.ide.util.MemberChooser" timestamp="1579832901657">
+    <state x="1459" y="264" key="#com.intellij.ide.util.MemberChooser" timestamp="1580270723137">
       <screen x="0" y="23" width="1920" height="1004" />
     </state>
-    <state x="1459" y="264" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1004/-1440.203.1440.877@0.23.1920.1004" timestamp="1579832901657" />
+    <state x="1459" y="264" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1004/-1440.203.1440.877@0.23.1920.1004" timestamp="1580270723137" />
     <state x="1176" y="229" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1579578611605">
       <screen x="0" y="23" width="1920" height="1001" />
     </state>
@@ -131,5 +132,9 @@
     </state>
     <state x="1045" y="124" key="refactoring.ChangeSignatureDialog/0.23.1920.1002/-1440.203.1440.877@0.23.1920.1002" timestamp="1579661873719" />
     <state x="1045" y="124" key="refactoring.ChangeSignatureDialog/0.23.1920.1004/-1440.203.1440.877@0.23.1920.1004" timestamp="1579834727089" />
+    <state x="910" y="270" width="670" height="676" key="search.everywhere.popup" timestamp="1580268643970">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state x="910" y="270" width="670" height="676" key="search.everywhere.popup/0.23.1920.1004/-1440.203.1440.877@0.23.1920.1004" timestamp="1580268643970" />
   </component>
 </project>
